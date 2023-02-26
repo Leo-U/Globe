@@ -1,0 +1,1 @@
+Basic globe animation. Uses multithreading to play sound and print images to terminal.

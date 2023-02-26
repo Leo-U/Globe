@@ -1,1 +1,1 @@
-Basic globe animation. Uses multithreading to play sound and print images to terminal.
+Basic globe animation that prints images to the termiminal. Uses multithreading to play sound at the same time.
